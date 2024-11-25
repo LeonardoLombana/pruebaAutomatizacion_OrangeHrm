@@ -48,3 +48,8 @@ Ejercicio 1
 
 ## Estado:
 - Completado
+
+## Presentado por:
+- Leonardo Lombana Contento
+
+## Proyecto parte de prueba tecnica para Choucair testing 
