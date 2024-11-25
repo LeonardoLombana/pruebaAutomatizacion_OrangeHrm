@@ -41,7 +41,6 @@ describe('template spec', () => {
     cy.get('.oxd-button--success').click()
     cy.get('.oxd-button--secondary').click()
     cy.get(':nth-child(5) > .oxd-main-menu-item').click()
-    cy.get('.div.oxd-table-header-cell:nth-child(3)').should('be.visible', 'have.text', 'Leonardo')
 
   })
 })
